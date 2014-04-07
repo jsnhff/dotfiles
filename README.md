@@ -3,8 +3,8 @@ dotfiles
 
 Useful files I use to set up my environment
 
-# pathogen
-# sensible
-# ctrlp
+- pathogen
+- sensible
+- ctrlp
 
 
