@@ -1,7 +1,3 @@
-// Setup pathogen
-execute pathogen#infect()
-call pathogen#helptags()
-
 // Setup fuzzy find with CtrlP
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
