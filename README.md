@@ -1,10 +1,3 @@
-dotfiles
+.dotfiles
 ========
-
-Useful files I use to set up my environment
-
-- pathogen
-- sensible
-- ctrlp
-
-
+I like to keep is simple so I can drop these on any machine and get to work.
